@@ -1,6 +1,9 @@
 # Tugas_2_PBKK_WEBCAM
-<h3 align="center">Ezekiel Mashal Wicaksono</h3>
-<h3 align="center">PBKK B - 5025201140</h3>
+| | |
+| :--- | :---: |
+| Kelas | Pemrograman Berbasis Kerangka Kerja B |
+| Nama | Ezekiel Mashal Wicaksono |
+| NRP | 5025201140 |
 <h4> Bukti UI
 
 <a href="https://ibb.co/3TSn8Bs"><img src="https://i.ibb.co/j83Sxg5/cam-1.png" alt="cam-1" border="0"></a>
