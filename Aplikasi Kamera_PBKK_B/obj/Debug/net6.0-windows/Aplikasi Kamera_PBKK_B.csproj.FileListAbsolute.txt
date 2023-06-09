@@ -1,0 +1,21 @@
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.csproj.AssemblyReference.cache
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.csproj.GenerateResource.cache
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.AssemblyInfoInputs.cache
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.AssemblyInfo.cs
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.csproj.CoreCompileInputs.cache
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.exe
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.deps.json
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.runtimeconfig.json
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.pdb
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi_Kamera_PBKK_B.Form1.resources
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.csproj.CopyComplete
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\refint\Aplikasi Kamera_PBKK_B.dll
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.pdb
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\Aplikasi Kamera_PBKK_B.genruntimeconfig.cache
+C:\Users\kielm\Desktop\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBKK_B\obj\Debug\net6.0-windows\ref\Aplikasi Kamera_PBKK_B.dll
